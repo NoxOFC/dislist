@@ -1,0 +1,3 @@
+# discordbotlist
+
+credits to Nox
